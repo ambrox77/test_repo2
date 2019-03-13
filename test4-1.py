@@ -1,5 +1,8 @@
 #drugi commit w dev
+
 print("inny komunikat")
+print("nowy komunikat")
+
 class Punkt():
     def __init__(self, x, y):
         self.x = x
