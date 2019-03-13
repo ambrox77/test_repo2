@@ -1,1 +1,4 @@
 katalog
+*.py[co]
+*.un
+*.py.un

@@ -1,3 +1,5 @@
+#drugi commit w dev
+
 class Punkt():
     def __init__(self, x, y):
         self.x = x
